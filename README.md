@@ -1,7 +1,7 @@
 # INTERNSHIP
 ## FIRST ASSIGNMENT
 
-The project consists of four distinct tasks, each focused on solving a specific problem in C#.
+This project is designed to practice using Git for version control and branch management. It includes four tasks focused on solving problems written in C#. Each task is developed on its own branch and then merged or rebased onto the main branch.
 
 ### Installation
 To get started with this project, you need to have the following installed on your machine:
