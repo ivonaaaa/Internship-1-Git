@@ -15,8 +15,10 @@ Steps to Install the Project:
    Open a terminal (or command prompt on your machine) and run the following commands:
 
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/ivonaaaa/Internship-1-Git.git
    
-   cd your-repository-name
+   cd Internship-1-Git
+
+   cd name-of-the-folder-you-want-to-open
 
    dotnet run
